@@ -1,0 +1,3 @@
+/Users/naweedaquib/Downloads/pool threading/thread_pool_project/build/CMakeFiles/ThreadPoolExample.dir
+/Users/naweedaquib/Downloads/pool threading/thread_pool_project/build/CMakeFiles/edit_cache.dir
+/Users/naweedaquib/Downloads/pool threading/thread_pool_project/build/CMakeFiles/rebuild_cache.dir
